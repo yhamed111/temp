@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PA12
+D The PA12 is a 10A, 90V power operational amplifier with low thermal resistance (1.4C/W). Target applications include driving resistive, inductive and capacitive loads such as motors, magnetic deflection, transducers, and programmable power supplies.  For optimum linearity, especially at low levels, the output stage is biased for Class A/B operation by using a thermistor compensated base emitter voltage multiplier circuit. The safe operating area (SOA) can be observed for all operating conditions by selecti
+K
+F https://www.apexanalog.com/resources/products/pa12u.pdf
+$ENDCMP
+#
+#End Doc Library
